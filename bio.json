@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "name": "Alireza Latifi",
+  "description": "Frontend developer with strong product sense and cross-functional collaboration skills",
+  "sections": [
+    {
+      "title": "About",
+      "type": "text",
+      "content": "Previously led the front-end development of a startup, gaining strong ownership, initiative, and team mentorship experience. Skilled in React, Next.js, and TypeScript, with a passion for clean code, efficient workflows, and thoughtful UX.
+Brings a product-oriented mindset, self-management, and clear communication to every project — shaped by previous experience in product-focused roles."
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "Rabits Solutions",
+          "description": "Front-End Web Developer (part-time)",
+          "url": "https://rabits.dev",
+          "date": "Aug 2025–Present"
+        },
+        {
+          "title": "Nationsbase",
+          "description": "Front-End Web Developer (part-time)",
+          "url": "https://nationsbase.com",
+          "date": "Aug 2025–Present"
+        },
+         {
+          "title": "Nationsbase",
+          "description": "Front-End Web Developer (full-time)",
+          "url": "https://nationsbase.com",
+          "date": "May 2024 – Aug 2025"
+        },
+      ]
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Linkedin",
+          "url": "www.linkedin.com/in/alirezaalatifi"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/alirezaalatifi"
+        },
+      ]
+    }
+  ],
+  "style": {
+    "font": "serif",
+    "theme": "dark"
+  }
+}
