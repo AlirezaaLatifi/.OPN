@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "Alireza Latifi",
-  "description": "Frontend developer with strong product sense and cross-functional collaboration skills",
+  "description": "Frontend developer with an entrepreneurial spirit",
   "sections": [
     {
       "title": "About",
@@ -48,7 +48,7 @@
     }
   ],
   "style": {
-    "font": "serif",
+    "font": "sans-serif",
     "theme": "dark"
   }
 }
